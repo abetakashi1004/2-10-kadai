@@ -69,7 +69,12 @@ main{
     margin: 0 5%;
     background-size: bottom;
     display: block;
+    margin-bottom:20px;
   }
+  .step-box:last-child{
+    margin-bottom:50px;
+  }
+
 }
 
 
